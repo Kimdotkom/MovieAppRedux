@@ -1,0 +1,15 @@
+.moviecard{
+    width: 300px;
+    height: 700px;
+    margin: 10px;
+}
+
+.cardtext{
+    height: 100px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+.imgcard{
+    height: 350px;
+}
